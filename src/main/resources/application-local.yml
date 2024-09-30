@@ -1,0 +1,5 @@
+logging:
+  level:
+    com.npe.base_back_api: DEBUG
+    #org.hibernate.SQL: TRACE
+    #org.hibernate.type.descriptor.sql.BasicBinder: TRACE

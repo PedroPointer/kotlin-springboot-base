@@ -1,0 +1,4 @@
+TODO  TODO  TODO  TODO TODO
+
+${application.title} ${application.version}
+:: Spring Boot :: ${spring-boot.version}
