@@ -4,12 +4,16 @@ project:
 server:
   port: 8080
   servlet:
-    context-path: /base-back-api
+    context-path: /kotlin-springboot-base
   error:
     include-message: always
 
 spring:
-  application.name: Base Back Api
+  application.name: kotlin springBoot base
 #  security.user:
 #    name: name
 #    password: pass
+
+springdoc:
+  api-docs:
+    path: /api-docs

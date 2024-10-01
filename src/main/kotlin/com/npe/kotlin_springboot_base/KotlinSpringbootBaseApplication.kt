@@ -1,11 +1,11 @@
-package com.npe.base_back_api
+package com.npe.kotlin_springboot_base
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class BaseBackApiApplication
+class KotlinSpringbootBaseApplication
 
 fun main(args: Array<String>) {
-	runApplication<BaseBackApiApplication>(*args)
+	runApplication<KotlinSpringbootBaseApplication>(*args)
 }

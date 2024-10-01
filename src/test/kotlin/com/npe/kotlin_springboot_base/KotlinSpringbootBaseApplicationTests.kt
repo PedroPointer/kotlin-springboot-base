@@ -1,10 +1,10 @@
-package com.npe.base_back_api
+package com.npe.kotlin_springboot_base
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class BaseBackApiApplicationTests {
+class KotlinSpringbootBaseApplicationTests {
 
 	@Test
 	fun contextLoads() {
